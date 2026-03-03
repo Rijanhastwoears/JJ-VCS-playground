@@ -3,3 +3,5 @@ Just a simple line
 Adding a second line
 
 Added a third line
+
+Added a fourth line
